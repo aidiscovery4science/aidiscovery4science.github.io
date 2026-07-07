@@ -1,1 +1,1 @@
-# Experimental Design: AI for Science 2025
+# AI Driven Discovery Systems in Science 2026
