@@ -22,33 +22,12 @@ We invite abstract submissions related (but not limited) to the following topics
 
 ## Important Dates (Anywhere on Earth)
 
-Abstract submission is closed. 
-
-<del>Last date for abstract submission (Extended): 22 Mar, 2025</del>
-
-<del>Last date for abstract submission: 15 Mar, 2025</del>
-
-Notification of selected abstracts: Rolling notifications
-
 Workshop: 3 and 4 April, 2025
-
-## Submission Details
-
-Please submit abstracts (200 words or fewer) in the submission form.
-
-Abstract submission is currently closed.
-
-## Poster Details
-
-
-We recommend the poster does not exceed the size of 44x44 inches, anything larger may be difficult to accommodate. If you need poster printing at Stanford, please refer to the [Tech Desk](https://thehub.stanford.edu/services/print-poster). All costs related to the poster printing are to be borne by the presenter.
-
-The poster boards will be on the ground floor of the Huang building. 
 
 ## Registration Details
 
-The registration for the workshop is currently closed.
+The registration for the workshop will open in late 2026.
 
 ## Questions
 
-If you have any questions, please do not hesitate to contact us at [edai4science@gmail.com](mailto:edai4science@gmail.com).
+If you have any questions, please do not hesitate to contact us at [aidiscovery4science@gmail.com](mailto:aidiscovery4science@gmail.com).
