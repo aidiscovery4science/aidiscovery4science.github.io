@@ -11,18 +11,18 @@ nav_order: 2
 
 ## Topics
 
-We invite abstract submissions related (but not limited) to the following topics:
+The workshop involves discussion and talks around the following topics:
 
-* Bayesian Experimental Design and Optimization
-* Model-based Experimental Design and Offline Optimization
-* Generative models for Decision Making in Science and Biology
-* LLMs for Decision Making in Science
-* Causality and Causal Experimental Design
-* Applications of Experimental Design in Biology
+ - Is structural plasticity necessary for sustained improvement?
+ - Can growth, pruning, and consolidation policies be formalized as experimental interventions?
+ - What role does evolution play alongside gradient-based optimization?
+ - Is open-endedness required for scientific discovery?
+ - How can recursive systems remain stable under noisy, sparse, expensive feedback?
+ - What lessons transfer between digital discovery (algorithms, models, code) and physical discovery (proteins, materials, robotics)?
+   
+## Important Dates
 
-## Important Dates (Anywhere on Earth)
-
-Workshop: 3 and 4 April, 2025
+Workshop: 23 and 24 February, 2027
 
 ## Registration Details
 
