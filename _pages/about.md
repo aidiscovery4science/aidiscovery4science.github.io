@@ -2,7 +2,7 @@
 layout: workshop
 title: About
 permalink: /
-subtitle: 3rd and 4th  April, 2025 at Stanford University
+subtitle: 23rd and 24th  February, 2027 in Berlin, Germany
 
 profile:
   align: right
