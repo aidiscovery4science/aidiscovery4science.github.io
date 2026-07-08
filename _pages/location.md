@@ -11,9 +11,11 @@ nav_order: 4
 
 ### Address
 Villa Elisabeth
+
 Invalidenstraße 3, 
+
 10115 Berlin, Germany
 
-[Directions to the venue](https://maps.app.goo.gl/VkiBK8MaVJku9Po67)).
+[Directions to the venue](https://maps.app.goo.gl/VkiBK8MaVJku9Po67).
 
 
