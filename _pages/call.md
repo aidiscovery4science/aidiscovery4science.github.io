@@ -2,7 +2,7 @@
 layout: page
 permalink: /submissions/
 title: Call for Abstracts
-description: We solicit abstracts of either published or ongoing research from junior researchers. Authors of selected abstracts will have a chance to present a lightning talk on the same (10 min).
+description: TBD
 nav: true
 nav_order: 2
 ---
